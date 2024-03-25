@@ -48,6 +48,25 @@ https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.h
 
 ## References 
 
+Agatha, H., Putri, F., & Suryadibrata, A. (2024). Sentiment Analysis on Song Lyrics for Song Popularity Prediction Using BERT. Ultimatics : Jurnal Teknik Informatika, 15(2), 99-105. https://doi.org/10.31937/ti.v15i2.3420
+
+AndyChiangSH. (2021). kkbox_crawler. GitHub. https://github.com/AndyChiangSH/2021-IT-30days/blob/main/Projects/05_AJAX_KKBOX/kkbox_crawler.py
+
+APCLab. (2017). jieba-tw. GitHub.https://github.com/APCLab/jieba-tw
+
+Biancofiore, G. M., Di Noia, T., Di Sciascio, E., Narducci, F., & Pastore, P. (2022). Aspect based sentiment analysis in music: A case study with Spotify. In Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing (SAC '22) (pp. 696–703). Association for Computing Machinery. https://doi.org/10.1145/3477314.3507092
+
+Bryan Wu.  (2022). Traditional-Chinese-Stopwords-and-Punctuations-Library. GitHub.
+https://github.com/bryanchw/Traditional-Chinese-Stopwords-and-Punctuations-Library/tree/main
+
+Cozar, M. (2022, November 20). Predicting song popularity based on lyrics. LatinXinAI. https://medium.com/latinxinai/predicting-song-popularity-based-on-lyrics-fee599165be0
+
+Jain, P. (2021, May 24). Basics of CountVectorizer. Towards Data Science. https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
+
+Luna, F. (2023, May 30). UMAP: An alternative dimensionality reduction technique. MCD-UNISON. https://medium.com/mcd-unison/umap-an-alternative-dimensionality-reduction-technique-7a5e77e80982
+
+Watts, C. (2021, December 17). Extracting Song Data From the Spotify API Using Python. Towards Data Science.
+https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50
 
 
 ## Author
