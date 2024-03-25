@@ -14,7 +14,7 @@ Model template used is from A. Karpathy's Makemore MLP available at: https://git
 ## Project Dependencies
 To run the code in this project, you'll need to install several Python libraries. You can do this via pip, Python's package manager.
 
-###Installation Instructions
+### Installation Instructions
 
 - `Python 3.10.12` or higher
 - `matplotlib`: to plot and create diagrams out of the data collected
