@@ -50,8 +50,8 @@ https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.h
 
 To use Spotipy and LyricsGenius, you'll need to obtain your own Genius and Spotify API keys. 
 You may refer to the tutorials on Genius and Spotify for more information:
-https://docs.genius.com/
-https://developer.spotify.com/documentation/web-api
+- `Genius`: https://docs.genius.com/
+- `Spotify`: https://developer.spotify.com/documentation/web-api
 
 ## References 
 
