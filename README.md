@@ -46,6 +46,13 @@ To manage dependencies and ensure compatibility, it's recommended to set up a vi
 For more information on managing environments with conda, refer to the "Managing environments" on conda: 
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment
 
+## Get your necessary Genius and Spotify API keys
+
+To use Spotipy and LyricsGenius, you'll need to obtain your own Genius and Spotify API keys. 
+You may refer to the tutorials on Genius and Spotify for more information:
+https://docs.genius.com/
+https://developer.spotify.com/documentation/web-api
+
 ## References 
 
 Agatha, H., Putri, F., & Suryadibrata, A. (2024). Sentiment Analysis on Song Lyrics for Song Popularity Prediction Using BERT. Ultimatics : Jurnal Teknik Informatika, 15(2), 99-105. https://doi.org/10.31937/ti.v15i2.3420
